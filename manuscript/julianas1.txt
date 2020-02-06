@@ -1,7 +1,5 @@
 {:: encoding="utf-8" /}
 
-## Happy Hour
-
 É fim de tarde, duas senhoras de idades aproximadas de quarenta e cinco e
 cinquenta anos conversam e bebem cerveja num barzinho do centro.
 
@@ -63,3 +61,5 @@ nessa cidade.
 — Larga de pensar nisso amiga. Quer comer um burrito?
 
 — Boa idéia.
+
+* * *
