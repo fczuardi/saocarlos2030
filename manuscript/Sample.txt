@@ -2,3 +2,4 @@ capitulo1.txt
 karen1.txt
 kenzo1.txt
 julianas1.txt
+fabricio1.txt
